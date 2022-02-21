@@ -40,3 +40,20 @@ An accelerometer sensor is a tool that measures the acceleration of any body or 
 9) HEART BEAT:-
 
 The heartbeat sensor is based on the principle of photoplethysmography. It measures the change in volume of blood through any organ of the body which causes a change in the light intensity through that organ (avascular region). In the case of applications where the heart pulse rate is to be monitored, the timing of the pulses is more important. The flow of blood volume is decided by the rate of heart pulses and since light is absorbed by the blood, the signal pulses are equivalent to the heartbeat pulses.
+
+
+
+REQUIREMENTS:-
+
+
+HLR1 :-  1) Step checker
+         2) Heartbeat check
+         3) BP check
+
+
+
+APPLICATIONS:-
+
+1)  Used for checking steps.
+2)  Used for fitness.
+3)  Used for calling.
