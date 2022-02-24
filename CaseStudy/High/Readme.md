@@ -1,5 +1,13 @@
 // Smart Watch 
 
+Table Of Contents:-
+
+1- Introduction about Smartwatch
+2- Components Used
+3- Requirements
+4- Applications
+
+
 WHAT IS A SMARTWATCH ?
 
 A smartwatch is a wearable computer in the form of a watch; modern smartwatches provide a local touchscreen interface for daily use, while an associated smartphone app. While early models could perform basic tasks, such as calculations, digital time telling, translations, and game-playing, 2010s smartwatches have more general functionality closer to smartphones, including mobile apps, a mobile operating system and WiFi/Bluetooth connectivity. Some smartwatches function as portable media players, with FM radio and playback of digital audio and video files via a Bluetooth headset. Some models, called watch phones (or vice versa), have mobile cellular functionality like making calls.
@@ -45,7 +53,6 @@ An accelerometer sensor is a tool that measures the acceleration of any body or 
 9) HEART BEAT:-
 
 The heartbeat sensor is based on the principle of photoplethysmography. It measures the change in volume of blood through any organ of the body which causes a change in the light intensity through that organ (avascular region). In the case of applications where the heart pulse rate is to be monitored, the timing of the pulses is more important. The flow of blood volume is decided by the rate of heart pulses and since light is absorbed by the blood, the signal pulses are equivalent to the heartbeat pulses.
-
 
 
 REQUIREMENTS:-
