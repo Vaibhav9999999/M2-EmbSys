@@ -2,10 +2,10 @@
 
 Table Of Contents:-
 
-1- Introduction about Smartwatch
-2- Components Used
-3- Requirements
-4- Applications
+1) Introduction about Smartwatch
+2) Components Used
+3) Requirements
+4) Applications
 
 
 WHAT IS A SMARTWATCH ?
