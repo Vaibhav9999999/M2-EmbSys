@@ -1,32 +1,28 @@
 # HIGH LEVEL REQUIREMENTS
 
-1) HLR1
+1) HLR1          Door sensors
 
-   Door sensors
+2) HLR2          Count on Lcd 
 
-2) HLR2
+3) HLR3          Emission of LED
 
-    Count on Lcd 
+4) HLR4          Temprature sensor
 
-3) HLR3
-
-    Emission of LED
+5) HLR5          Buzzer
 
 
 # LOW LEVEL REQUIREMENTS
 
-1.1) LLR1
-
-      Push buttons act as a door sensors.
+1.1) LLR1        Push buttons act as a door sensors.
       
-2.1)  LLR2
+2.1)  LLR2       count++ using sensor/door 1
+                 count-- using sensor/door 2
 
-       count++ using sensor/door 1
-       count-- using sensor/door 2
+3.1)  LLR3       count++ led emmit
 
-3.1)  LLR3
+4.1)  LLR4       Analog sensor
 
-       count++ led emmit
+4.2)  LLR5       analog sensor with buzzer connection
 
 
 
@@ -39,6 +35,7 @@
 * Led will be ON whenever a person enetrs
 * Count will be displayed on lcd 
 * LED will automatically ON/OFF on enter and leaving
+* Buzzer will notify about fire.
 
 # WEAKNESS
 
@@ -52,6 +49,7 @@
 
 * We can check the ambient light intensity and then decide if the light needs to be turned ON or not.
 * Metal detector can be added for security reasons.
+* Special arrangements for fire defense can be made.
 
 # THREATS
 
