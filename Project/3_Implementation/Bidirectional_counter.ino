@@ -1,3 +1,5 @@
+
+
 #include<LiquidCrystal.h>
 LiquidCrystal lcd(12,11,7,6,5,4);
 #define in A5
@@ -8,6 +10,8 @@ const int POTENTIOMETER_PIN = A0; // Arduino pin connected to Potentiometer pin
 const int RELAY_PIN         = 8;  // Arduino pin connected to Relay's pin
 const int ANALOG_THRESHOLD  = 500;
 
+
+
 void IN()
 {
 count++;
@@ -17,6 +21,10 @@ lcd.setCursor(0,1);
 lcd.print(count);
 delay(1000);
 }
+
+
+
+
 void OUT()
 {
 count--;
@@ -26,6 +34,8 @@ lcd.setCursor(0,1);
 lcd.print(count);
 delay(1000);
 }
+
+
 void setup()
 {
 lcd.begin(16,2);
@@ -40,6 +50,8 @@ lcd.print("Person In Room:");
 lcd.setCursor(0,1);
 lcd.print(count);
 }
+
+
 void loop()
 {
   int analogValue = analogRead(POTENTIOMETER_PIN); // read the input on analog pin
