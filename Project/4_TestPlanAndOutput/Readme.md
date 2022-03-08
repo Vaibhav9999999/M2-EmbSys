@@ -15,4 +15,3 @@ Here is the test plan
 |    8)  | IR SENSOR 2  | PUSH BUTTON  | LED OFF         | LED OFF       | YES   |
 |    9)  | POTENTIOMETER| INPUT >THRESH| BUZZER ON       | BUZZER ON     | YES   |
 |    10) | POTENTIOMETER| INPUT< THRESH| BUZZER OFF      | BUZZER OFF    | YES   |
-|--------|--------------|--------------|-----------------|---------------|-------|
