@@ -15,3 +15,7 @@
 # Codacy
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ec74942f61a042429131b7dec658134a)](https://www.codacy.com/gh/Vaibhav9999999/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Vaibhav9999999/M2-EmbSys&amp;utm_campaign=Badge_Grade)
+
+# Unit Testing
+
+[![UnitTesting](https://github.com/Vaibhav9999999/M2-EmbSys/actions/workflows/UnitTesting.yml/badge.svg)](https://github.com/Vaibhav9999999/M2-EmbSys/actions/workflows/UnitTesting.yml)
