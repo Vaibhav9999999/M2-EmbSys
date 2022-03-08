@@ -5,8 +5,7 @@ Here is the test plan
 ---------------------------------------------------------------------------------
 | SR.NO  | TEST         |INPUT         | EXP. OUTPUT     |OUTPUT         |PASS   |
 |--------|--------------|--------------|-----------------|---------------|-------|
-|    1)  | IR SENSOR 1  | PUSH BUTTON  | INCREMENT 1 =1  | INCREMENT 1 =1| YES   |
-|--------|--------------|--------------|-----------------|---------------|-------|
+|    1)  | IR SENSOR 1  | PUSH BUTTON  | INCREMENT 1 =1  | INCREMENT 1 =1| YES   |          
 |    2)  | IR SENSOR 1  | PUSH BUTTON  | INCREMENT 1     | LED ON        | YES   |
 |--------|--------------|--------------|-----------------|---------------|-------|
 |    3)  | IR SENSOR 1  | PUSH BUTTON  | INCREMENT 1 =2  | INCREMENT 1 =2| YES   |
