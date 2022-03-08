@@ -18,11 +18,11 @@
 2.1)  LLR2       count++ using sensor/door 1
                  count-- using sensor/door 2
 
-3.1)  LLR3       count++ led emmit
+3.1)  LLR3       count++ led emmit / Relays
 
 4.1)  LLR4       Analog sensor
 
-4.2)  LLR5       analog sensor with buzzer connection
+4.2)  LLR5       analog sensor with buzzer connection / Relays
 
 
 
